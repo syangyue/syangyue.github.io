@@ -7,7 +7,7 @@
     "phone": "312-866-0886",
     "website": "https://syangyue.github.io",
     "summary": " I am an avid yoga teacher and a persistent, problem-solving full-stack engineer who enjoys handling the database, programming logic, and user interface and putting it together in a cohesive product.
-As someone who has nurtured a lifelong passion for technology, I am thrilled at the opportunity to apply for a software engineering position. \\n\\My life is a never-ending journey of learning. Whether it’s with people, software, or yoga – there are always more things to learn and improve.
+As someone who has nurtured a lifelong passion for technology, I am thrilled at the opportunity to apply for a software engineering position. My life is a never-ending journey of learning. Whether it’s with people, software, or yoga – there are always more things to learn and improve.
  In recent years, I have focused on building my skills in Python and JavaScript, and have gained experience with full-stack development using frameworks like Django, React, and Node. I am a dedicated learner who is always eager to expand my knowledge and capabilities.",
     "location": { "city": "Vacaville", "countryCode": "USA", "region": "CA" },
     "profiles": [
@@ -27,20 +27,20 @@ As someone who has nurtured a lifelong passion for technology, I am thrilled at 
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "JavaScript", "Python", "React.js", "DOM", "Django", "RESTful APIs", "FastAPI", "PostgreSQL", "CSS", "MongoDB" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets",
+      "keywords": [ "Insomnia", "Docker", "Git/GitHub", "Visual Studio Code", "Render" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Changchun University of Science and Technology, Changchun, China",
+      "area": "Information and Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-24",
       "courses": [
       ]
     }
