@@ -32,4 +32,3 @@ summary: "My team designed and developed a microservice based web application, G
 For this project, I was the lead programmer who was responsible for programming both back-end and front-end authentication by using JWTdown(JSON Web Token) authentication in FastApi. Authentication in general can have a lot of moving parts, from handling password hashing and assiging tokens to validating tokens on each request. 
 
 
-You can try it out at PUBLIC_URL: https://seabeast.gitlab.io/gather/
