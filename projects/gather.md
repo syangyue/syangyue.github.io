@@ -19,11 +19,7 @@ labels:
 summary: "My team designed and developed a microservice based web application, Gather, that helps a group decide on a place to eat. It allows each group member to input a preference for cuisine type and price range. Gather generate these preferences and utilizes the Yelp API to suggest a nearby restaurant."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/gather1.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/gather2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/gather3.jpg" class="img-thumbnail" >
-</div>
+
 
 - Collaborated with 3 engineers to design the application using Domain Driven Design
 - Adopted Yelp API to conditionally load recommended restaurants based on user preferences, significantly expanding its functionality and providing user’s comprehensive experience
