@@ -34,8 +34,14 @@ As someone who has nurtured a lifelong passion for technology, I am thrilled at 
     }
   ],
   "education": [
+    {"institution": "Hack Reactor, San Francisco, CA, USA",
+     "area": "Software Engineering with JavaScript and Python",
+     "studyType": "Software Engineering",
+     "startDate": "2022-08-15",
+     "endDate": "2022-12-22"
+    }, 
     {
-      "institution": "Changchun University of Science and Technology, Changchun, China",
+      "institution": "Changchun University of Science and Technology, Changchun, Jilin, China",
       "area": "Information and Computer Science",
       "studyType": "B.S.",
       "startDate": "2008-09-01",
