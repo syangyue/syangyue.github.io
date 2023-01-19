@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screen Shot 2023-01-12 at 9.40.39 AM.png
 title: "Gather"
 date: 2022
 published: true
