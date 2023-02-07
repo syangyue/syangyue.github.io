@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Yangyue Song",
+    "label": "Software Engineer",
+    "picture": "https://github.com/syangyue.png",
+    "email": "syangyue1990@gmail.com",
+    "phone": "312-866-0886",
+    "website": "https://syangyue.github.io",
+    "summary": " I am an avid yoga teacher and a persistent, problem-solving full-stack engineer who enjoys handling the database, programming logic, and user interface and putting it together in a cohesive product.
+As someone who has nurtured a lifelong passion for technology, I am thrilled at the opportunity to apply for a software engineering position. My life is a never-ending journey of learning. Whether it’s with people, software, or yoga – there are always more things to learn and improve.
+ In recent years, I have focused on building my skills in Python and JavaScript, and have gained experience with full-stack development using frameworks like Django, React, and Node. I am a dedicated learner who is always eager to expand my knowledge and capabilities.",
+    "location": { "city": "Vacaville", "countryCode": "USA", "region": "CA" },
+    "profiles": [
+      { "network": "github", "username": "syangyue", "url": "http://github.com/syangyue" },
+      { "network": "linkedin", "username": "yangyuesong", "url": "https://www.linkedin.com/in/yangyue-song/" },
+      { "network": "twitter", "username": "syangyue1990", "url": "https://twitter.com/syangyue1990" },
+      { "network": "instagram", "username": "daisyyogachicago", "url": "https://www.instagram.com/yoga108chicago/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Photography" },
+    { "name": "Yoga" },
+    { "name": "Animal Lover" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "JavaScript", "Python", "React.js", "Node.js", "DOM", "Django", "RESTful APIs", "FastAPI", "PostgreSQL", "CSS", "MongoDB" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "Insomnia", "Docker", "Git/GitHub", "Visual Studio Code", "Render" ]
+    }
+  ],
+  "education": [
+    {"institution": "Hack Reactor, San Francisco, CA, USA",
+     "area": "Software Engineering with JavaScript and Python",
+     "studyType": "Software Engineering",
+     "startDate": "2022-08-15",
+     "endDate": "2022-12-22"
+    }, 
+    {
+      "institution": "Changchun University of Science and Technology, Changchun, Jilin, China",
+      "area": "Information and Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-24",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Yoga 108",
+      "position": "Owner",
+      "website": "",
+      "startDate": "2017-07-01",
+      "endDate": "2020-07-15",
+      "summary": "Be responsible for overseeing the staff's performance and duties, marketing the business and designing online web services",
+      "highlights": [
+        "Started a yoga studio and grew membership from 0 to 200+ in the first year of operations",
+        "Designed yoga teachers' certificate curriculum and teaching manual. Curated workshops, which
+         helped professional yoga teachers achieve their 200HR RYT certifications",
+        "Operated the company's official website and social media. Wrote high-quality yoga articles"
+      ]
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
